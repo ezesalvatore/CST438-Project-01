@@ -8,6 +8,7 @@
     tools:context=".AccountCreationPage">
 
     <TextView
+
         android:id="@+id/createaccounttitle"
         android:layout_width="196dp"
         android:layout_height="40dp"
