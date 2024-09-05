@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">CST438_Project01</string>
+    <string name="Favorites">Your Favorite Words</string>
+    <string name="ReturnFromFavorites">RETURN</string>
+    <string name="Practice">Words to Practice</string>
     <string name="enter_a_username_and_password_to_create_an_account">Enter a username and password to create an account:</string>
     <string name="submit">Submit</string>
     <string name="back">Back</string>
